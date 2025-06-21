@@ -181,4 +181,5 @@ The bot is a single Python script (`main.py`). To modify or extend its functiona
 
 ---
 
-*This README provides guidance for using and modifying the LinkGuard Bot.*
+*This README provides guidance for using and modifying the LinkGuard Bot.
+Made By [Xueba™] (https://t.me/QuickPause)*
